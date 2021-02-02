@@ -1,9 +1,3 @@
-### TODO
-## Make all the shapes
-## Make background
-## Make them fall
-## check collision with side walls
-## check collision with objects
-## make lines disappear
-## make shapes rotate
+#This Game is a very very poor version of tetris.
+#It doesn't even have all its features.
 
